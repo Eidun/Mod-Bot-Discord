@@ -17,7 +17,7 @@ async def on_ready():
     print('Bot initiating...')
     print(bot.user.name)
     print(bot.user.id)
-    await bot.change_presence(game=discord.Game(name='rol con vosotros'))
+    await bot.change_presence(game=discord.Game(name='Bot on Tatomexus Server!'))
 
     print('Loading systems...')
     if __name__ == '__main__':

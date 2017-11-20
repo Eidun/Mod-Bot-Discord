@@ -32,4 +32,4 @@ async def on_ready():
     print('------')
 
 # Testbot-9000
-bot.run('MzcyMDc3OTgwMTgyMTE4NDAy.DM-8Iw.hq1p3hwF7w2O0qqQ1xm6LeVfQD0')
+bot.run('')
